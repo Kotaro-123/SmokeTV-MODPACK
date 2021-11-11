@@ -1,2 +1,12 @@
-# SmokeTV-MODPACK
-SmokeTV Modpack Files Is Here!
+# SMOKETV GTA SAMP MODPACK
+
+## SMOKETV MODPACK V1
+```HIGH FPS
+FPS BOOSTER
+LQ CARS
+HD SKYBOX BUT NO FPS DROP
+WEAPON SKINS
+REALISTIC AUDIO
+PREVIEW: https://youtu.be/y21xoeDdBmc
+DOWNLOAD: https://link.sub4link.com/link.php?xid=618d1877a30e4
+```
