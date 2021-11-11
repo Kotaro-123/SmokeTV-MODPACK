@@ -8,4 +8,3 @@ HD SKYBOX BUT NO FPS DROP
 WEAPON SKINS
 REALISTIC AUDIO
 ```
-` https://github.com/Kotaro-123/SmokeTV-MODPACK/releases/tag/SAMP `
