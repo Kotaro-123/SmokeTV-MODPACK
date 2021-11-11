@@ -7,6 +7,4 @@ LQ CARS
 HD SKYBOX BUT NO FPS DROP
 WEAPON SKINS
 REALISTIC AUDIO
-PREVIEW: https://youtu.be/y21xoeDdBmc
-DOWNLOAD: https://link.sub4link.com/link.php?xid=618d1877a30e4
 ```
