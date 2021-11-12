@@ -1,6 +1,6 @@
 # SMOKETV GTA SAMP MODPACK
 
-## [SMOKETV MODPACK V1](http://github.com/Kotaro-123/SmokeTV-MODPACK/releases/tag/SAMP)
+## [SMOKETV MODPACK V1](http://github.com/Kotaro-123/SmokeTV-MODPACK/releases/tag/SAMP)(RELEASED)
 ```HIGH FPS
 FPS BOOSTER
 LQ CARS
