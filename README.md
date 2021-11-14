@@ -1,6 +1,6 @@
 # SMOKETV GTA SAMP MODPACK
 
-## [SMOKETV MODPACK V1](http://github.com/Kotaro-123/SmokeTV-MODPACK/releases/tag/SAMP)(RELEASED)
+## [SMOKETV MODPACK V1](http://github.com/Kotaro-123/SmokeTV-MODPACK/releases/tag/SAMP)
 ```HIGH FPS
 FPS BOOSTER
 LQ CARS
@@ -9,7 +9,7 @@ WEAPON SKINS
 REALISTIC AUDIO
 ```
 
-## [SMOKETV MODPACK V2]()(UNDERDEVELOPMENT)
+## [SMOKETV MODPACK V2](https://github.com/Kotaro-123/SmokeTV-MODPACK/releases/tag/samp)
 ### ADDED
 ```
 ・LQ SKIN PACK
@@ -23,7 +23,7 @@ REALISTIC AUDIO
 ・CHANGE THE FIST TO W**D FIST
 ```
 
-## [SMOKETV HACK CLIENT](https://github.com/Kotaro-123/SmokeTV-MODPACK/releases/tag/samphack)(RELEASED)
+## [SMOKETV HACK CLIENT](https://github.com/Kotaro-123/SmokeTV-MODPACK/releases/tag/samphack)
 ### FEATURES + TOGGLE
 ```
 HACKMENU = R + G
